@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_zero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "savejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoangDInhHanh95/nodejs_zero.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Hoang dinh hanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoangDInhHanh95/nodejs_zero/issues"
+  },
+  "homepage": "https://github.com/HoangDInhHanh95/nodejs_zero#readme"
+}
